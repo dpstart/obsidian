@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "research/concepts/graphvae.md",
+            "file": "research/scratch/2021-02-26.md",
             "mode": "source"
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "research/concepts/graphvae.md",
+                "file": "research/scratch/2021-02-26.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,15 +97,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "research/scratch/2021-02-26.md",
     "research/concepts/graphvae.md",
+    "Screenshot 2021-02-26 at 11.45.26.png",
     "research/concepts/graphrnn.md",
     "research/concepts/Untitled.md",
-    "research/scratch/2021-02-26.md",
     "daily/2021-02-26.md",
     "research/scratch/Untitled.md",
     "daily/2021-02-26 1.md",
     "research/concepts/GraphRNN.md",
-    "research/concepts/graphs/GraphRNN.md",
-    "research/concepts/Graphs.md"
+    "research/concepts/graphs/GraphRNN.md"
   ]
 }
