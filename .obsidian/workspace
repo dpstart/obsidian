@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "0475728620f9d463",
+        "id": "e3c4741fc2012acd",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "research/concepts/generative-graphs-simulation-hep.md",
+            "file": "Wave Mechanics.md",
             "mode": "source"
           }
         }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "research/concepts/generative-graphs-simulation-hep.md",
+                "file": "Wave Mechanics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,15 +106,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Wave Mechanics.md",
+    "research/concepts/Untitled.md",
+    "research/concepts/graphrnn.md",
+    "research/scratch/2021-02-26.md",
+    "research/concepts/graph-generative-hep-atlas.md",
+    "research/concepts/here.md",
+    "atlas.md",
     "research/concepts/geenrative-graphs-simulation-hep.md",
     "research/concepts/graphvae.md",
-    "research/concepts/graphrnn.md",
-    "research/concepts/Untitled.md",
-    "graph-matching.md",
-    "graphvae.png",
-    "daily/2021-02-26.md",
-    "research/scratch/2021-02-26.md",
-    "Screenshot 2021-02-26 at 11.45.26.png",
-    "research/scratch/Untitled.md"
+    "graph-matching.md"
   ]
 }
