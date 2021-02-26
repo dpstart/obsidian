@@ -1,0 +1,111 @@
+{
+  "main": {
+    "id": "aa3851869f53094f",
+    "type": "split",
+    "children": [
+      {
+        "id": "b8a9edc9dfcf6884",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "daily/2021-02-26.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4d2712b4b785cb43",
+    "type": "split",
+    "children": [
+      {
+        "id": "d74671b32ea06944",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d791bd269c1f88ec",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "6342a3cfd0dd5569",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "aa0b2299b7cc86ac",
+    "type": "split",
+    "children": [
+      {
+        "id": "0a0795759ef5a9b7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "37c3ef0acf7c89d0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "daily/2021-02-26.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d33a1c003510f108",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "daily/2021-02-26.md",
+    "research/concepts/graphrnn.md",
+    "research/scratch/2021-02-26.md",
+    "research/scratch/Untitled.md",
+    "daily/2021-02-26 1.md",
+    "research/concepts/GraphRNN.md",
+    "research/concepts/graphs/GraphRNN.md",
+    "research/concepts/Graphs.md",
+    "Daily/2021-02-26.md",
+    "Research/Graphs.md"
+  ]
+}
