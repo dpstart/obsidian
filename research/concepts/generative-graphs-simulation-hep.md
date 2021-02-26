@@ -12,3 +12,8 @@ deposits withing a single layer are correlated. there is also correlation cross-
 
 
 4k points for layer per layer is a lot. Can we reduce it? if we get only a percentile of the enrgy, we can reduce it a bit. Could also merge together close points with little energy.
+
+inspiration from [[unet]]
+
+
+how do you recontruct graph? matching?
