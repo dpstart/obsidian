@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "daily/2021-02-26.md",
+            "file": "research/concepts/graphrnn.md",
             "mode": "source"
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily/2021-02-26.md",
+                "file": "research/concepts/graphrnn.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,8 +97,8 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "daily/2021-02-26.md",
     "research/concepts/graphrnn.md",
+    "daily/2021-02-26.md",
     "research/scratch/2021-02-26.md",
     "research/scratch/Untitled.md",
     "daily/2021-02-26 1.md",
