@@ -1,4 +1,4 @@
-Topics: #graphvae #graph-generartive
+Topics: #graphvae #graph-generative 
 
 Graphs are hard to generate because of their discrete structure. Learning in a step-by-step, kinda autoregressive way requires discrete decisions, like for [[graphrnn]].
 
