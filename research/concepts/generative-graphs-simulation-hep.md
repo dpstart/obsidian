@@ -20,5 +20,7 @@ how do you recontruct graph? matching?
 
 
 
+
+learn information about "difference" between layers.
 EVALUATION METRICS
 
