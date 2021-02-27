@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "research/concepts/graph-generative-hep-atlas.md",
+            "file": "daily/2021-02-27.md",
             "mode": "source"
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "research/concepts/graph-generative-hep-atlas.md",
+                "file": "daily/2021-02-27.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,15 +97,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "daily/2021-02-27.md",
+    "daily/2021-02-26.md",
     "research/concepts/graph-generative-hep-atlas.md",
     "graph-matching.md",
-    "daily/2021-02-26.md",
     "research/concepts/graphrnn.md",
     "research/scratch/2021-02-26.md",
     "research/scratch/Untitled.md",
     "daily/2021-02-26 1.md",
     "research/concepts/GraphRNN.md",
-    "research/concepts/graphs/GraphRNN.md",
-    "research/concepts/Graphs.md"
+    "research/concepts/graphs/GraphRNN.md"
   ]
 }
