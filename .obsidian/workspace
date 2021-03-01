@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "daily/2021-03-01.md",
+            "file": "research/concepts/graph-generative-hep-atlas.md",
             "mode": "source"
           }
         }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily/2021-03-01.md",
+                "file": "research/concepts/graph-generative-hep-atlas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,15 +105,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "research/concepts/graph-generative-hep-atlas.md",
+    "research/concepts/mastering-quantum-course.md",
     "daily/2021-03-01.md",
     "daily/2021-02-27.md",
     "daily/2021-02-26.md",
-    "research/concepts/graph-generative-hep-atlas.md",
     "graph-matching.md",
     "research/concepts/graphrnn.md",
     "research/scratch/2021-02-26.md",
     "research/scratch/Untitled.md",
-    "daily/2021-02-26 1.md",
-    "research/concepts/GraphRNN.md"
+    "daily/2021-02-26 1.md"
   ]
 }
