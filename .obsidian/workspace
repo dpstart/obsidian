@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "research/concepts/graph-generative-hep-atlas.md",
+            "file": "research/concepts/deep-generative-hep-atlas-paper.md",
             "mode": "source"
           }
         }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#atlas",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "research/concepts/graph-generative-hep-atlas.md",
+                "file": "research/concepts/deep-generative-hep-atlas-paper.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,15 +105,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "research/concepts/deep-generative-hep-atlas-paper.md",
     "research/concepts/graph-generative-hep-atlas.md",
+    "Untitled.md",
+    "templates/Untitled.md",
+    "research/concepts/deep-generatove-hep-atlas-paper.md",
+    "research/concepts/atlas.md",
+    "research/concepts/Untitled.md",
     "Wave Mechanics.md",
     "graph-matching.md",
-    "atlas.md",
-    "research/scratch/2021-02-26 1.md",
-    "research/scratch/2021-02-26.md",
-    "daily/2021-03-01.md",
-    "daily/2021-02-26.md",
-    "daily/2021-02-27.md",
-    "research/concepts/graphrnn.md"
+    "atlas.md"
   ]
 }

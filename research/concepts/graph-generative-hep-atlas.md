@@ -48,4 +48,6 @@ First experiments from [[johnny]]:
 * Train the network conditional on photon energy to reproduce shower
 * Train on energy deposits in cells from G4 events, then generate new showers
 
+More detailed papers notes at [[deep-generative-hep-atlas-paper]]
+
 
