@@ -6,6 +6,7 @@
       {
         "id": "b8a9edc9dfcf6884",
         "type": "leaf",
+        "dimension": 57.33122362869199,
         "active": true,
         "state": {
           "type": "markdown",
@@ -13,7 +14,21 @@
             "file": "research/papers/equivariant-graphnets.md",
             "mode": "source"
           }
-        }
+        },
+        "group": "67452210b329b9f9"
+      },
+      {
+        "id": "1a2e8ea4d681234d",
+        "type": "leaf",
+        "dimension": 42.66877637130801,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "research/papers/equivariant-graphnets.md",
+            "mode": "preview"
+          }
+        },
+        "group": "67452210b329b9f9"
       }
     ],
     "direction": "vertical"
