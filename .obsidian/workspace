@@ -11,7 +11,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "research/papers/equivariant-graphnets.md",
+            "file": "daily/2021-03-08.md",
             "mode": "source"
           }
         },
@@ -24,7 +24,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "research/papers/equivariant-graphnets.md",
+            "file": "daily/2021-03-08.md",
             "mode": "preview"
           }
         },
@@ -76,8 +76,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "aa0b2299b7cc86ac",
@@ -93,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "research/papers/equivariant-graphnets.md",
+                "file": "daily/2021-03-08.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,6 +120,7 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "daily/2021-03-08.md",
     "research/papers/equivariant-graphnets.md",
     "templates/paper notes.md",
     "research/concepts/Wave Mechanics.md",
@@ -129,7 +129,6 @@
     "research/concepts/deep-generative-hep-atlas-paper.md",
     "research/concepts/graph-generative-hep-atlas.md",
     "research/concepts/graph-matching.md",
-    "research/concepts/graphvae.md",
-    "research/concepts/mastering-quantum-course.md"
+    "research/concepts/graphvae.md"
   ]
 }
