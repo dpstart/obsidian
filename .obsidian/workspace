@@ -11,7 +11,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "daily/2021-03-08.md",
+            "file": "research/concepts/graphrnn.md",
             "mode": "source"
           }
         },
@@ -24,7 +24,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "daily/2021-03-08.md",
+            "file": "research/concepts/graphrnn.md",
             "mode": "preview"
           }
         },
@@ -92,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily/2021-03-08.md",
+                "file": "research/concepts/graphrnn.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,6 +120,7 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "research/concepts/graphrnn.md",
     "daily/2021-03-08.md",
     "daily/2021-03-02.md",
     "daily/2021-03-01.md",
@@ -128,7 +129,6 @@
     "research/concepts/Wave Mechanics.md",
     "research/papers/Untitled.md",
     "research/concepts/atlas.md",
-    "research/concepts/deep-generative-hep-atlas-paper.md",
-    "research/concepts/graph-generative-hep-atlas.md"
+    "research/concepts/deep-generative-hep-atlas-paper.md"
   ]
 }
