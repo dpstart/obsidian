@@ -6,29 +6,27 @@
       {
         "id": "b8a9edc9dfcf6884",
         "type": "leaf",
-        "dimension": 57.33122362869199,
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "research/concepts/graphrnn.md",
+            "file": "articles/graphgen.md",
             "mode": "source"
           }
         },
-        "group": "67452210b329b9f9"
+        "group": "fd4db9f9feddb387"
       },
       {
-        "id": "1a2e8ea4d681234d",
+        "id": "afc405e34706518e",
         "type": "leaf",
-        "dimension": 42.66877637130801,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "research/concepts/graphrnn.md",
+            "file": "articles/graphgen.md",
             "mode": "preview"
           }
         },
-        "group": "67452210b329b9f9"
+        "group": "fd4db9f9feddb387"
       }
     ],
     "direction": "vertical"
@@ -92,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "research/concepts/graphrnn.md",
+                "file": "articles/graphgen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,15 +118,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "articles/graphgen.md",
+    "articles/main.md",
+    "research/papers/equivariant-graphnets.md",
     "research/concepts/graphrnn.md",
     "daily/2021-03-08.md",
     "daily/2021-03-02.md",
     "daily/2021-03-01.md",
-    "research/papers/equivariant-graphnets.md",
     "templates/paper notes.md",
     "research/concepts/Wave Mechanics.md",
-    "research/papers/Untitled.md",
-    "research/concepts/atlas.md",
-    "research/concepts/deep-generative-hep-atlas-paper.md"
+    "research/papers/Untitled.md"
   ]
 }
