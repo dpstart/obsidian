@@ -9,7 +9,10 @@ The aim of this post is to provide an overview of cthe current state-of-the-art 
 
 # Challenges in Graph Generation
 
-Generating graphs is a challenging task. Firstly, graphs are inherently discrete, 
+Generating graphs is a challenging task. Firstly, generating graphs is computationally expensive. For a graph of $n$ nodes, there exist $O(n^2)$ possible edges, which means that the number of edges can become huge.
+Moreover, unlike the pixels of an image, the nodes in a graph don't follow a predefined order, meaning that they are *permutation-invariant.* As a consequence, an $n$-nodes graoh can be represented in $n!$ different ways, which makes it veeeery hard to capture graph distributions.  
+
+Moreover , graphs are inherently *discrete* structures, where discrete decisions need to be made, for example, when chosing whether to add a new edge between two nodes. 
 
 GraphRNN
 ========
