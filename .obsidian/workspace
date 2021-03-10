@@ -6,11 +6,10 @@
       {
         "id": "b8a9edc9dfcf6884",
         "type": "leaf",
-        "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "articles/graphgen.md",
+            "file": "research/papers/equivariant-graphnets.md",
             "mode": "source"
           }
         },
@@ -19,10 +18,11 @@
       {
         "id": "afc405e34706518e",
         "type": "leaf",
+        "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "articles/graphgen.md",
+            "file": "research/papers/equivariant-graphnets.md",
             "mode": "preview"
           }
         },
@@ -90,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "articles/graphgen.md",
+                "file": "research/papers/equivariant-graphnets.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,15 +118,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "research/papers/equivariant-graphnets.md",
+    "daily/2021-03-10.md",
+    "research/scratch/2021-03-02.md",
+    "research/scratch/2021-03-01.md",
+    "research/scratch/2021-02-26.md",
     "articles/graphgen.md",
     "articles/main.md",
-    "research/papers/equivariant-graphnets.md",
     "research/concepts/graphrnn.md",
     "daily/2021-03-08.md",
-    "daily/2021-03-02.md",
-    "daily/2021-03-01.md",
-    "templates/paper notes.md",
-    "research/concepts/Wave Mechanics.md",
-    "research/papers/Untitled.md"
+    "daily/2021-03-02.md"
   ]
 }
