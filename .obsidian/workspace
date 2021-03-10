@@ -6,27 +6,29 @@
       {
         "id": "b8a9edc9dfcf6884",
         "type": "leaf",
-        "dimension": 74.93734335839599,
+        "dimension": 50,
         "active": true,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "research/books/graph-representation-learning.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "611af4134c9eb7fc",
-        "type": "leaf",
-        "dimension": 25.062656641604008,
         "state": {
           "type": "markdown",
           "state": {
             "file": "daily/2021-03-10.md",
             "mode": "source"
           }
-        }
+        },
+        "group": "417fded9f5356f68"
+      },
+      {
+        "id": "495739581fada42b",
+        "type": "leaf",
+        "dimension": 50,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "daily/2021-03-10.md",
+            "mode": "preview"
+          }
+        },
+        "group": "417fded9f5356f68"
       }
     ],
     "direction": "vertical"
@@ -90,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "research/books/graph-representation-learning.md",
+                "file": "daily/2021-03-10.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,14 +120,14 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "research/books/graph-representation-learning.md",
     "daily/2021-03-10.md",
+    "articles/graphgen.md",
+    "research/books/graph-representation-learning.md",
     "research/books/Untitled.md",
     "research/papers/equivariant-graphnets.md",
     "research/scratch/2021-03-02.md",
     "research/scratch/2021-03-01.md",
     "research/scratch/2021-02-26.md",
-    "articles/graphgen.md",
     "articles/main.md",
     "research/concepts/graphrnn.md"
   ]
