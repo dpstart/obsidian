@@ -43,9 +43,34 @@ So, what have we accomplished so far?
 
 ### Linear Operators, Hermitian Conjugation
 
-In QM, the quantities we measure in a system are called *observables*. The position, or the angular momentum of a particle are examples of observables.
+In QM, the quantities we measure in a system are called *observables*. The position, or the angular momentum of a particle are examples of observables. The spin components we were measuring earlier, such as $\sigma_z$ of $\sigma_x$, are also observables.
 Observables are represented by linear operators, which are essentially linear funcions (in matrix form) being applied to vectors (in our case, the state vectors), as in
 
 $$M \vert A \rangle = \vert B \rangle$$
 
 with $M$ being the operator applied to vector $\vert A \rangle$, resulting in $\vert B \rangle$.
+
+Moreover, in QM we deal with *Hermitian* operators, meaning that the operator matrix is always equal to its Hermitian conjugate (the transpose of the complext conjugate).
+
+Equipped with these abstract and apparently meaningless notions, we are now ready to state the *fundamental theorem* of quantum mechanics:
+
+* The eigenvectors of a Hermitian operator are a complete set. This means that any vector the operator can generate can be expanded as a sum of its eigenvectors.
+* If $\lambda_1$ and $\lambda_2$ are two unequal eigenvalues of a Hermitian operator, then the corresponding eigenvectors are orthogonal.
+* If two eigenvalues are equal, the corresponding eigenvectors can be chosen to be orthogonal.
+
+We can summarize this by saying that *the eigenvectors of a Hermitian operator form an orthonormal basis*.
+
+
+I will finish this post by finally stating the principles of quantum mechanics. In the next episode, we will get back to the principles and show an example of their application in the context of the *spin* of a system.
+
+* **Principle 1**: the observable quantities of quantum mechanics are represented by linear operators (very abstract, I know)
+* **Principle 2**: The possible results of a measurement are the eigenvalues of the operator that represents the observable. The state that results in a certain measurement value is the corresponding eigenvector.
+* **Principle 3**: Unambigously distinguisihible states are represented by orthogonal vectors
+* **Principle 4**: If $\vert A \rangle$ is the state-vector of a system, and the observable $L$ is measurd, the probability to observe value $\lambda_i$ is
+
+$$
+P(\lambda_i) = \langle A \vert \lambda_i \rangle \langle \lambda_i \vert A \rangle
+$$
+
+where $\lambda_i$ are the eigenvalues of L, and $\vert \lambda_i \rangle$ are the corresponding eigenvectors.
+
