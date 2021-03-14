@@ -74,3 +74,9 @@ $$
 
 where $\lambda_i$ are the eigenvalues of L, and $\vert \lambda_i \rangle$ are the corresponding eigenvectors.
 
+Again, everything is still very abstract and hardly self-explanatory, but everything should make much more sense going forward with this series.
+
+However, we can already have a high-level understanding of these principles.
+For example, Principle 2 is telling us that the result of the measurement of an observable are always real numbers from a set of possible results (note that the eigenvalues of a hermitian operator are always real). This makes sense: we can't expect an actual physical quantities such as the energy of a particle to be complex. The real world is inherently real :)
+
+As an example, the eigenvalues of the spin operator need to have exactly two eigenvalues corresponding to $+1$ and $-1$, since those are the only possible results of the measurement.
