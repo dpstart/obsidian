@@ -1,6 +1,7 @@
-Topics: #graph-generative #atlas
-Link: https://cds.cern.ch/record/2630433/files/ATL-SOFT-PUB-2018-001.pdf
-
+---
+tags: #graph-generative #atlas
+references: https://cds.cern.ch/record/2630433/files/ATL-SOFT-PUB-2018-001.pdf
+---
 
 ## What
 

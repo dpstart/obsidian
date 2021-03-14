@@ -1,4 +1,6 @@
-Topics: #graph-generative #atlas
+---
+tags: #graph-generative #atlas
+---
 
 Core of the problem: collision -> particles fly out -> they leave different marks in the detectors, some only deposit energy in the calorimeter. Multiple layers with complicated geometry.
 
