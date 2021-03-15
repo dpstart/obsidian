@@ -58,16 +58,20 @@ Identify a graph by the number of occurrences of a certain [[graphlet]]. Combina
 
 ### Neighborhood overlap detection
 
-Statistical measures of neighborhood overlap between pairs of nodes, which tells us how much two nodes are related. One simple baseline is to simply count th enumber of neighbors that two nodes share.
+Statistical measures of neighborhood overlap between pairs of nodes, which tells us how much two nodes are related. One simple baseline is to simply count the number of neighbors that two nodes share.
 
 Given a neighborhood overlap statistic, a strategy for edge prediction is to assume that the likelihood of an edge is proportional to the overlap.
 
 
 #### Local overlap statistics
 
-Functions of the number of common neighbors that two nodes share. Nroamlization is typically important, otherwise the measure would be biased towards predicting edges for nodes with high degrees.
+Functions of the number of common neighbors that two nodes share. Normalization is typically important, otherwise the measure would be biased towards predicting edges for nodes with high degrees.
 
 
 #### Global overlap measures
 
 Local approaches are limited as they only consider local neighborhoods. For example, count the number of paths of all lengths between a pair of nodes.
+
+
+### [[Graph Laplacian]]
+

@@ -4,29 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "e7131a9214d80ef6",
+        "id": "99fda3015c34ebcc",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "writing/Teaching Myself Quantum Mechanics, Part 2.md",
+            "file": "zettelkasten/^graph-representation-learning.md",
             "mode": "source"
           }
-        },
-        "group": "664ff8a6c06020ce"
-      },
-      {
-        "id": "8a3f6f991597d19d",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "writing/Teaching Myself Quantum Mechanics, Part 2.md",
-            "mode": "preview"
-          }
-        },
-        "group": "664ff8a6c06020ce"
+        }
       }
     ],
     "direction": "vertical"
@@ -74,8 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "aa0b2299b7cc86ac",
@@ -91,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "writing/Teaching Myself Quantum Mechanics, Part 2.md",
+                "file": "zettelkasten/^graph-representation-learning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,6 +105,8 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "zettelkasten/^graph-representation-learning.md",
+    "daily/2021-03-15.md",
     "writing/Teaching Myself Quantum Mechanics, Part 2.md",
     "writing/Untitled.md",
     "writing/fiction.md",
@@ -126,8 +114,6 @@
     "daily/2021-03-14.md",
     "writing/zettelkasten.md",
     "daily/2021-03-13.md",
-    "templates/paper notes.md",
-    "zettelkasten/%equivariant-graphnets.md",
-    "zettelkasten/atlas.md"
+    "templates/paper notes.md"
   ]
 }
