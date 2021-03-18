@@ -4,14 +4,21 @@ Link: https://arxiv.org/abs/2102.09844v1
 
 ## What
 
-[[EGNN]]s. Learn [[graphnets]] equivariant to rotations, translations, reflections and permutation. Supposed to not require expesive higher-order representations in intermediate leyers, and scaling to high-dimensional spaces.
+[[EGNN]]s. Learn [[graphnets]] equivariant to rotations, translations, reflections and permutation. EGNN don't require expensive higher-order representations in intermediate layers, and scale to high-dimensional spaces.
 
 Related works are [[tensor-field-networks]], [[se3-transformer]], [[radial-field-network]], [[schnet]].
+
+
+## Background
+
+### equivariance:
+
+$T_g:X \rightarrow Y$
 
 ## Why
 Inductive bayes are needed. Inductive biases can exploit simmetries. E.g. translation equivariance in CNNs and permutation equivariance in GNNs.
 
-Many problems also exhibit 3D translation and rotation simmetries, such as [[point-clouds]], 3D molecular structures and [[n-body]] particle simuations. Related work on this uses higher-order representations for intermediate network layers, and the computation requires expensive stuff. Addionally, often the data is restricted to scalar values and 3D vectors.
+Many problems also exhibit 3D translation and rotational simmetries, such as [[point-clouds]], 3D molecular structures and [[n-body]] particle simuations. Related work on this uses higher-order representations for intermediate network layers, and the computation requires expensive stuff. Addionally, often the data is restricted to scalar values and 3D vectors.
 
 ## How
 
