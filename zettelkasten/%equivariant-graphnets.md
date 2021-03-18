@@ -41,8 +41,11 @@ Equations for the layer are:
 
 So what is the difference from a standard GNN? 
 
-* In Equation 3, the "edge" operation also takes a sinput the squared distances between the coordinates.
-* In Equation 4, the position of each particle is updated as a "vector field in a radial direction". What does this mean? Each particle $x_i$ is updated by the weighted sum of all the relative differences with the other particles. The weights of this sum are the outputs of the function $\phi_x$ that takes as inputs the node embedding and outputs a scalar value.
+
+* Equation 3: the node message is computed based on the node hidden representation, the messaging nodes representation (neighbors), edge attributes ($a_{ij}$). The difference is that we also include the distance between the nodes sender and receiver nodes in coordinate space.
+* Equation 4: the position of each particle is updated as a "vector field in a radial direction". What does this mean? Each particle $x_i$ is updated by the weighted sum of all the relative differences with the other particles. The weights of this sum are the outputs of the function $\phi_x$ that takes as inputs the node embedding and outputs a scalar value.
+* Equation 5 and 6 are nothing new with respect to a simple messa-passing GNN.
+
 
 
 ### E(n) equivariance
@@ -55,7 +58,10 @@ $$
 Qx^{l+1} + g, h^{l_1} = ECGL(Qx^{l} + g, h^l)
 $$
 
+We call these properties $E(n)$ invariance. 
+Let's go intuitevely about understanding why they hold for this model.
 
+Let's consider a feature $h^l$ that is already invariant. Since 
 ### Extending for vector type representations
 
 ## And?
