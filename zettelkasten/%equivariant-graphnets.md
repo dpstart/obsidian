@@ -13,7 +13,17 @@ Related works are [[tensor-field-networks]], [[se3-transformer]], [[radial-field
 
 ### equivariance:
 
-$T_g:X \rightarrow Y$
+$T_g:X \rightarrow Y$ is a set of transformations on $X$ for the abstract group $g \in G$. Any function $\phi: X \rightarrow Y$ is equivariant to $g$ if there exists an equivalent transformation on its output space $S_g: Y \rightarrow Y$  such that 
+
+$$
+\phi(T_g(x)) = S_g(\phi(x))
+$$
+
+What this means is that applying a transformation* to an input point, and they applying an equivariant function to the result, is the same as applying the function first and then some some transformation.
+
+\*a transformation the function is equivariant to
+
+Example of common equivariant transformations we care about are translation, rotation (and reflection), and permutation.
 
 ## Why
 Inductive bayes are needed. Inductive biases can exploit simmetries. E.g. translation equivariance in CNNs and permutation equivariance in GNNs.
@@ -22,9 +32,9 @@ Many problems also exhibit 3D translation and rotational simmetries, such as [[p
 
 ## How
 
-The layer is called [[EGCL]].  Condider graph with feature node embeddings $h_i$ and also a n-dimensional coordinate $x_i$ associated with each of the nodes. The model will preserve equivariance to rotations and translations on these set of coordinates $x_i$, and will also preserve equivariance to permutation on the set of nodes V just like a normal GNN.
+The layer is called [[EGCL]].  Consider a graph with feature node embeddings $h_i$ and also a $n$-dimensional coordinate $x_i$ associated with each of the nodes. The model will preserve equivariance to rotations and translations on these set of coordinates $x_i$, and will also preserve equivariance to permutation on the set of nodes $V$ just like a normal GNN.
 
-Consicely, $h^{l+1}, x^{l+1} = ECGL[h^l, x^l, edges]$.
+Concisely, $h^{l+1}, x^{l+1} = ECGL[h^l, x^l, edges]$.
 Equations for the layer are: 
 
 ![[Screenshot from 2021-03-02 12-03-48.png]]
