@@ -44,7 +44,7 @@ So what is the difference from a standard GNN?
 
 * Equation 3: the node message is computed based on the node hidden representation, the messaging nodes representation (neighbors), edge attributes ($a_{ij}$). The difference is that we also include the distance between the nodes sender and receiver nodes in coordinate space.
 * Equation 4: the position of each particle is updated as a "vector field in a radial direction". What does this mean? Each particle $x_i$ is updated by the weighted sum of all the relative differences with the other particles. The weights of this sum are the outputs of the function $\phi_x$ that takes as inputs the node embedding and outputs a scalar value.
-* Equation 5 and 6 are nothing new with respect to a simple messa-passing GNN.
+* Equation 5 and 6 are nothing new with respect to a simple message-passing GNN.
 
 
 
@@ -61,8 +61,14 @@ $$
 We call these properties $E(n)$ invariance. 
 Let's go intuitevely about understanding why they hold for this model.
 
-Let's consider a feature $h^l$ that is already invariant. Since 
-### Extending for vector type representations
+Let's consider a feature $h^l$ that is already $E(n)$ invariant. The resulting edge embedding from equation 3 will also be $E(n)$ ivnariant, since it only depends on squared distances between the node coordinates, which are invariant. 
+Moving on, we see that Equation 4 computes the updated coordinates by a weighted sum of differences between node coordinates. This operation also preserves equivariance. Finally, Equation 5 and 6 contain updated that only depend on $h^l$ and $m_{ij}$ which, as we've seen, are equivariant. This makes the whole ECGL layer equivariant.
+
+
+#### Inferring the edges
+
+Sometimes, edges are not given (e.g. in point clouds) and we would like to infer them. For this purpose, the authors propose a slight modification that allows to infer/predict the edge while still keeping the model $E(n)$ invariant.
+
 
 ## And?
 SOTA results in modelling dynamical systems, [[representation-learning]] in [[graph-autoencoders]], prediction of molecular properties in [[QM9]] dataset.
