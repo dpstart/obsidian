@@ -74,4 +74,11 @@ Local approaches are limited as they only consider local neighborhoods. For exam
 
 
 ### [[Graph Laplacian]]
+--
 
+### [[graphnets]]
+
+This should be printed in our brain: 
+![[Screenshot 2021-03-19 at 09.06.18.png]]
+
+with the UPDATE and AGGREGATE function being differentiable, and the AGGREGATION function working on sets (thus being permutation invariant).
