@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "zettelkasten/^graph-representation-learning.md",
+            "file": "daily/2021-03-24.md",
             "mode": "source"
           }
         }
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zettelkasten/^graph-representation-learning.md",
+                "file": "daily/2021-03-24.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +106,7 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "daily/2021-03-24.md",
     "zettelkasten/^graph-representation-learning.md",
     "daily/2021-03-19.md",
     "zettelkasten/%equivariant-graphnets.md",
@@ -114,7 +115,6 @@
     "zettelkasten/graphvae.md",
     "zettelkasten/graphrnn.md",
     "zettelkasten/graph-generative-hep-atlas.md",
-    "zettelkasten/deep-generative-hep-atlas-paper.md",
-    "daily/2021-03-16.md"
+    "zettelkasten/deep-generative-hep-atlas-paper.md"
   ]
 }
