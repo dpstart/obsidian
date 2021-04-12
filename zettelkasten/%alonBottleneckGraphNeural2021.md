@@ -25,4 +25,7 @@ On the toy dataset, it is shown that, even if enogh layers are built into the ne
 A question posed is: if all GNNs have reached low training accuracy, how do these GNN models usually fit the training data in public datasets of long-range problems? The hypothesis is that they overfiit short-range signals and artifacts from the training set, rather that learning the long-range information that was sqashed in the bottleneck. Thus, they generalize poorly at test time.
 
 
-Simple solution: Adding a fully-adjacent (FA) layer in the last layer.
+Simple solution: Adding a fully-adjacent (FA) layer in the last layer. the FA later has every pair of nodes connected by an edge. This allows the topology-aware representations (that arrived at the last layer) to interact directly and consider nodes beyond thei original neighbors. This significanly reduces the error rate.
+
+
+Moreover, the authors try to assess whether the issue might have to do with under-reaching rather that oversquashing. However, that is not the case, as they show that the networks already had enough layer to reach the radius needes for they task.
