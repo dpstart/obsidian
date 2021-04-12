@@ -6,11 +6,10 @@
       {
         "id": "99fda3015c34ebcc",
         "type": "leaf",
-        "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "daily/2021-04-08.md",
+            "file": "daily/2021-03-24.md",
             "mode": "source"
           }
         }
@@ -77,10 +76,12 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily/2021-04-08.md",
+                "file": "daily/2021-03-24.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
                 "backlinkCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -104,16 +105,17 @@
     "width": 300,
     "collapsed": true
   },
+  "active": "99fda3015c34ebcc",
   "lastOpenFiles": [
+    "daily/2021-03-24.md",
+    "daily/2021-03-29.md",
     "daily/2021-04-08.md",
+    "daily/2021-04-12.md",
     "zettelkasten/%equivariant-graphnets.md",
     "zettelkasten/^graph-representation-learning.md",
-    "daily/2021-03-29.md",
-    "daily/2021-03-24.md",
     "daily/2021-03-19.md",
     "zettelkasten/atlas.md",
     "daily/2021-03-18.md",
-    "zettelkasten/graphvae.md",
-    "zettelkasten/graphrnn.md"
+    "zettelkasten/graphvae.md"
   ]
 }
