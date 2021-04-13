@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "zettelkasten/%khasahmadiMemoryBasedGraphNetworks2020.md",
+            "file": "daily/2021-04-13.md",
             "mode": "source"
           }
         }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zettelkasten/%khasahmadiMemoryBasedGraphNetworks2020.md",
+                "file": "daily/2021-04-13.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,6 +108,8 @@
   },
   "active": "99fda3015c34ebcc",
   "lastOpenFiles": [
+    "daily/2021-04-13.md",
+    "zettelkasten/%khasahmadiMemoryBasedGraphNetworks2020.md",
     "zettelkasten/Untitled.md",
     "zettelkasten/%alonBottleneckGraphNeural2021.md",
     "zettelkasten/%equivariant-graphnets.md",
@@ -115,8 +117,6 @@
     "daily/2021-03-29.md",
     "daily/2021-04-08.md",
     "daily/2021-04-12.md",
-    "zettelkasten/^graph-representation-learning.md",
-    "daily/2021-03-19.md",
-    "zettelkasten/atlas.md"
+    "zettelkasten/^graph-representation-learning.md"
   ]
 }
