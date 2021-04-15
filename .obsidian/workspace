@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "893862560db1cc5a",
+        "id": "24be11f8a16f6236",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "zettelkasten/^graph-representation-learning.md",
+            "file": "daily/2021-04-15.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zettelkasten/^graph-representation-learning.md",
+                "file": "daily/2021-04-15.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,17 +105,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "893862560db1cc5a",
+  "active": "24be11f8a16f6236",
   "lastOpenFiles": [
-    "zettelkasten/^graph-representation-learning.md",
+    "daily/2021-04-15.md",
+    "EGNN.md",
     "zettelkasten/%equivariant-graphnets.md",
-    "graphnet.md",
     "zettelkasten/%alonBottleneckGraphNeural2021.md",
     "daily/2021-04-13.md",
+    "zettelkasten/deep-generative-hep-atlas-paper.md",
+    "daily/2021-03-08.md",
     "zettelkasten/%khasahmadiMemoryBasedGraphNetworks2020.md",
-    "zettelkasten/Untitled.md",
-    "daily/2021-03-24.md",
-    "daily/2021-03-29.md",
-    "daily/2021-04-08.md"
+    "deep-generative-models.md",
+    "zettelkasten/atlas.md"
   ]
 }
