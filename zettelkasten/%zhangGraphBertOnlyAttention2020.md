@@ -59,12 +59,16 @@ This task is used to capture graph structure information. The idea is the follow
 #### Fine-tuning/Transfer
 
 ##### Node classification
-Sim
-##### Graph Clustering
-
+We can simply add a fully connected layer with a softmax on top, and fine-tune the entire network for the classification task.
 
 
 ### Results
+
+The model is only evaluated on citation datasets. These are **Cora**, **Citeseer**, and **PubMed**.
+
+* For node classification, GraphBERT outperforms most existing models on this datasets. It's also interesting that the performance doesn't degrade with deeper models. I guess this makes sense because it doesn't use message passing/signal diffusion.
+
+* The model works best when all three encodings are added to the initial embeddings. Still, the positional embeddings don't give huge improvements over only using the raw input features.
 
 
 ### What's next
