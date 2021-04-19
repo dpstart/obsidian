@@ -41,7 +41,27 @@ The hop-based encoding is dependent on the relative distance in hops between eac
 
 #### Transformer encoder
 
-The war vector embeddings, and the positional encodings, are summed to buld the inital node represantion. Thi
+The war vector embeddings, and the positional encodings, are summed to buld the inital node represantion. This is then fed to a standard transformer encoder.
+The difference from the original transformer here is that we only want to computed the represantion for the central node in the subgraph. Thus, a final *Fusion* step will average the  represantion of all nodes , which defines the final state of the target nodes. 
+
+
+#### Pre-Training
+GraphBERT is pretrained with two tasks: node attribute reconstuction, and graph structure recovery.
+
+##### Node Raw Attribute Reconstruction
+
+Once we have the final represantion for the target nodes, this task simply consists in adding a fully-connected layer to reconstruct the original node attributes.
+
+##### Graph Structure Recovery
+This task is used to capture graph structure information. The idea is the following: given two learned node represantion, we can use the cosine similarity between the vectors to approximate some notion of similarity between the nodes. In this case, we want the cosine similarity between the represantion to be close to the intimacy score.
+
+
+#### Fine-tuning/Transfer
+
+##### Node classification
+Sim
+##### Graph Clustering
+
 
 
 ### Results
