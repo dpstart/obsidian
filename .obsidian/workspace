@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "zettelkasten/%dwivediGeneralizationTransformerNetworks2021.md",
+            "file": "zettelkasten/%zhangGraphBertOnlyAttention2020.md",
             "mode": "source"
           }
         }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zettelkasten/%dwivediGeneralizationTransformerNetworks2021.md",
+                "file": "zettelkasten/%zhangGraphBertOnlyAttention2020.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,15 +108,15 @@
   },
   "active": "24be11f8a16f6236",
   "lastOpenFiles": [
+    "zettelkasten/%zhangGraphBertOnlyAttention2020.md",
     "zettelkasten/%dwivediGeneralizationTransformerNetworks2021.md",
-    "daily/2021-04-16.md",
+    "zettelkasten/%equivariant-graphnets.md",
     "zettelkasten/Untitled.md",
+    "daily/2021-04-16.md",
     "daily/2021-04-15.md",
     "EGNN.md",
-    "zettelkasten/%equivariant-graphnets.md",
     "zettelkasten/%alonBottleneckGraphNeural2021.md",
     "daily/2021-04-13.md",
-    "zettelkasten/deep-generative-hep-atlas-paper.md",
-    "daily/2021-03-08.md"
+    "zettelkasten/deep-generative-hep-atlas-paper.md"
   ]
 }
