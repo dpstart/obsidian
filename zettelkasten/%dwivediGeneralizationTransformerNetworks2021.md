@@ -16,12 +16,19 @@ The solution here is to only compute attention score for nodes that are connecte
 
 #### Positional encodings
 
-In NLP transformers, positional encodings are required in order to add 
-
+In NLP transformers, positional encodings are required in order to add positional information to the input tokens.
+For graphs, however, encoding node positions is not trivial, as there is no natural ordering of the nodes. The authors here employ the Laplacian eigenvectors as positional encodings, as they contain both structural and positional information about the nodes (nearby nodes have similar positional features and farther nodes have dissimilar features).
 
 #### Layer Norm -> Batch Norm
+
 #### Incorporate edge features
+In this framework, the incorporation of edge features is very straighfroward. The edge features are first projectred to fixed-dimensional vector via a linear projection, and they are then pointwise-multiplied with the attention scores in the self-attention layers. This seems to be enough to inject edge feature information in the model.
+
 
 ### Results
+The model is evaluated on three datasets:
+
+* **ZINC**: dataset for graph regression. It;s a molecular dataset, and the task is to preict molecular properties. The dataset containes edge attributes.
+* **PATTERN**: dataset for node classification. The dataset is generated using the Stochastic Block Model ([[SBM]])
 
 ### What's next
