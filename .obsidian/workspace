@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "daily/2021-04-16.md",
+            "file": "zettelkasten/%dwivediGeneralizationTransformerNetworks2021.md",
             "mode": "source"
           }
         }
@@ -60,7 +60,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "aa0b2299b7cc86ac",
@@ -76,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily/2021-04-16.md",
+                "file": "zettelkasten/%dwivediGeneralizationTransformerNetworks2021.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,15 +108,15 @@
   },
   "active": "24be11f8a16f6236",
   "lastOpenFiles": [
+    "zettelkasten/%dwivediGeneralizationTransformerNetworks2021.md",
     "daily/2021-04-16.md",
+    "zettelkasten/Untitled.md",
     "daily/2021-04-15.md",
     "EGNN.md",
     "zettelkasten/%equivariant-graphnets.md",
     "zettelkasten/%alonBottleneckGraphNeural2021.md",
     "daily/2021-04-13.md",
     "zettelkasten/deep-generative-hep-atlas-paper.md",
-    "daily/2021-03-08.md",
-    "zettelkasten/%khasahmadiMemoryBasedGraphNetworks2020.md",
-    "deep-generative-models.md"
+    "daily/2021-03-08.md"
   ]
 }
