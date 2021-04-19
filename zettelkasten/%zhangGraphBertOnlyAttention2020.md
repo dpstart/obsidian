@@ -31,7 +31,7 @@ For GraphBERT, the WL labels are computed for each nodes, and based on that, a p
 
 #####  Intimacy based Relative Positional Embedding
 
-The WL encoding captures global nodes structural information. Contrarily, the intimacy-based encoding allows to extract local information in the sampled subgraph based on 
+The WL encoding captures global nodes structural information. Contrarily, the intimacy-based encoding allows to extract local information in the sampled subgraph based on the order of the node list (recall that nodes represantions are sorted by intimacy score.)
 ##### Hop based Relative Distance Embedding
 
 #### Transformer encoder
