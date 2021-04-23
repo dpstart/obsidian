@@ -4,7 +4,7 @@
 * Become a polyglot
 * Become the Ironman world champion
 * Buy a farm
-* Net worth in the order of 100 million $
+* Become a billionaire
 * Publish a book
 * Buy a house for my parents
 * Become a compelling storyteller
@@ -12,3 +12,14 @@
 * Find the love of my life
 * Get a PhD
 * Live in NYC
+
+
+**Next**
+
+* Become fluent in French
+* Publish a paper by 2021
+* Keep Training 👍🏻
+* Fix diet
+* Start a podcast
+
+
