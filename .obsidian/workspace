@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "daily/2021-04-23.md",
+            "file": "writing/A tale of wasted potential.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily/2021-04-23.md",
+                "file": "writing/A tale of wasted potential.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,6 +107,8 @@
   },
   "active": "24be11f8a16f6236",
   "lastOpenFiles": [
+    "writing/Untitled.md",
+    "writing/fiction.md",
     "daily/2021-04-23.md",
     "daily/2021-04-21.md",
     "zettelkasten/%zhangGraphBertOnlyAttention2020.md",
@@ -114,8 +116,6 @@
     "zettelkasten/%equivariant-graphnets.md",
     "zettelkasten/Untitled.md",
     "daily/2021-04-16.md",
-    "daily/2021-04-15.md",
-    "EGNN.md",
-    "zettelkasten/%alonBottleneckGraphNeural2021.md"
+    "daily/2021-04-15.md"
   ]
 }
