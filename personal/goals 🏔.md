@@ -1,6 +1,7 @@
 **Life**
 
 * Become an astronaut
+* Become a rockstar researcher in my field
 * Become a polyglot
 * Become the Ironman world champion
 * Buy a farm
