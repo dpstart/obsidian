@@ -22,5 +22,6 @@
 * Keep Training 👍🏻
 * Fix diet
 * Start a podcast
+* Stop chasing. Attract.
 
 
