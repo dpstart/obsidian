@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "zettelkasten/%alonBottleneckGraphNeural2021.md",
+            "file": "%yunGraphTransformerNetworks2020.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zettelkasten/%alonBottleneckGraphNeural2021.md",
+                "file": "%yunGraphTransformerNetworks2020.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,15 +107,15 @@
   },
   "active": "24be11f8a16f6236",
   "lastOpenFiles": [
+    "%yunGraphTransformerNetworks2020.md",
+    "zettelkasten/Untitled.md",
     "zettelkasten/%alonBottleneckGraphNeural2021.md",
+    "zettelkasten/atlas.md",
+    "zettelkasten/^graph-representation-learning.md",
     "zettelkasten/%equivariant-graphnets.md",
     "zettelkasten/%khasahmadiMemoryBasedGraphNetworks2020.md",
     "zettelkasten/%zhangGraphBertOnlyAttention2020.md",
-    "zettelkasten/^graph-representation-learning.md",
-    "zettelkasten/atlas.md",
     "zettelkasten/deep-generative-models.md",
-    "zettelkasten/EGNN.md",
-    "zettelkasten/mastering-quantum-course.md",
-    "zettelkasten/Wave Mechanics.md"
+    "zettelkasten/EGNN.md"
   ]
 }
