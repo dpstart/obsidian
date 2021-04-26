@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "87a7e783b89d9840",
+        "id": "01c837ad77f9c9fc",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -60,8 +60,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "aa0b2299b7cc86ac",
@@ -106,9 +105,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "87a7e783b89d9840",
+  "active": "01c837ad77f9c9fc",
   "lastOpenFiles": [
     "daily/a new beginning..md",
+    "daily/2021-04-23.md",
     "zettelkasten/~problems in graph ml.md",
     "%huHeterogeneousGraphTransformer2020.md",
     "zettelkasten/Untitled.md",
@@ -116,7 +116,6 @@
     "zettelkasten/%zhangGraphBertOnlyAttention2020.md",
     "zettelkasten/%dwivediGeneralizationTransformerNetworks2021.md",
     "%nguyenUniversalGraphTransformer2020.md",
-    "%yunGraphTransformerNetworks2020.md",
-    "zettelkasten/mastering-quantum-course.md"
+    "%yunGraphTransformerNetworks2020.md"
   ]
 }

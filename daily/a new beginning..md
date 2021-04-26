@@ -27,10 +27,20 @@ Rendere difficili, sconvenienti e spaicevoli le brutte abitudini.
 Ad esempio. I social media sono una brutta abitudine. Prendono solo da me, e non mi hanno dato niente di tangibile in cambio. Possono essere usati bene, ma non è questo il mio caso. Per questa ragione, adesso Instagram se ne va. In diretta. Puf. Fatto..
 
 
-
 E Youtube? Bloccare sul calendario il tempo giornaliero che voglio passarci. Premiarmi se riesco (sweet?). Punirmi se non riesco.
 
 
-E i p.? La più difficile. Innanzitutto, bloccarli sul computer. Fatto. What else? Reward myself per ogni gi
+E i p.? La più difficile. Innanzitutto, bloccarli sul computer. Fatto. What else? Reward myself per ogni giorni in cui riesco. Make it pleasurable. Keep a streak diary. Making it right now.
+
+
+E il telefono? Easy. In un'altra stanza quando lavoro. In modalità aereo. Ci siamo.
+
+E il deep work? Painificare in calendar mode, time blockare tutto. Contare le ore, tenere uno streak.
+
+
+E le relazioni? Concetrarmi su me stesso. Non andare appresso alle persone. Attirare, attrarre, invece di inseguire e cercare.
+
+
+Direi che bastano questi cambiamenti, e i risultatiu si faranno vedere in tempi brevi. Non devo esagerare, non provare ad aggiungere le abitudini tutte insieme, sappiamo che non funziona. Ad esempio, troppo presto per la meditazione. 
 
 
