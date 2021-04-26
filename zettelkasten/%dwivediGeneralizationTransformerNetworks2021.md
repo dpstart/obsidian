@@ -2,7 +2,7 @@ topics: #graphnets #transformers #graphtransformers
 
 ### Why
 
-Original [[transformer]] from NLP operates on fully-connected graph -> Does not leverage sparse connectivity -> performrs poorly when topology is important + does not leverage edge features if available.
+Original [[transformer]] from NLP operates on fully-connected graph -> Does not leverage sparse connectivity -> performs poorly when topology is important + does not leverage edge features if available.
 
 ### How
 
@@ -41,4 +41,4 @@ The model is evaluated on three datasets:
 ### What's next
 
 * Efficient training on large graphs
-* Application fo heterogeneous graphs
+* Application to heterogeneous graphs
