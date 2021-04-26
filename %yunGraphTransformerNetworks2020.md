@@ -31,5 +31,7 @@ The approach uses [[GCN]] learning nodes representations.
 ### Metapath generation
 
 1. Softly select two graph structures Q_1 and Q_2 from candidate adjacenty matrices.
-	1. 
+	1. Apply 1x1 convolution to the tensor of adjaceny matrices. This reduces the dimensionality of the number of adj matrices. The filter is softmaxed so that the result is a weighted sum of the channels.
 2. Learn a new graph structure by the composition of two relations. (multiplication of the adjancency matrices.)
+	1. The resulting weighted combinations of the adjacenty matrices are combined via matrix multiplication to build the metapath. Each layers build a "two-degrees" metapath. Layers can be stacked for longer paths.
+	2. Each additional layers increases the length of the path, but this is not always advisable. This, the identitry matri
