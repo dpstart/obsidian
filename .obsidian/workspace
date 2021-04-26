@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "zettelkasten/~problems in graph ml.md",
+            "file": "daily/a new beginning..md",
             "mode": "source"
           }
         }
@@ -60,7 +60,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "aa0b2299b7cc86ac",
@@ -76,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zettelkasten/~problems in graph ml.md",
+                "file": "daily/a new beginning..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,6 +108,7 @@
   },
   "active": "87a7e783b89d9840",
   "lastOpenFiles": [
+    "daily/a new beginning..md",
     "zettelkasten/~problems in graph ml.md",
     "%huHeterogeneousGraphTransformer2020.md",
     "zettelkasten/Untitled.md",
@@ -115,7 +117,6 @@
     "zettelkasten/%dwivediGeneralizationTransformerNetworks2021.md",
     "%nguyenUniversalGraphTransformer2020.md",
     "%yunGraphTransformerNetworks2020.md",
-    "zettelkasten/mastering-quantum-course.md",
-    "zettelkasten/%alonBottleneckGraphNeural2021.md"
+    "zettelkasten/mastering-quantum-course.md"
   ]
 }
