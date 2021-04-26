@@ -15,7 +15,6 @@ Voglio smetterla di avere la mente offuscata dal multitasking, dai social media,
 
 Voglio svegliarmi presto, vivere intensamente, andare a letto felice e soddisfatto. Voglio saper controllare i miei impulsi. Voglio restare concentrato per 8 ora su un solo compito.
 
-
 E, tutto questo, può succedere solo se cambio. Ma come si cambia? 
 Per fortuna, questo lo so. Parto avvantaggiato.
 Si cambia con i giusti sistemi e la giusta visione. Non con la motivatione. La motivazione non dura. La motivazione non funziona. 
@@ -25,7 +24,6 @@ Rendere difficili, sconvenienti e spaicevoli le brutte abitudini.
 
 
 Ad esempio. I social media sono una brutta abitudine. Prendono solo da me, e non mi hanno dato niente di tangibile in cambio. Possono essere usati bene, ma non è questo il mio caso. Per questa ragione, adesso Instagram se ne va. In diretta. Puf. Fatto..
-
 
 E Youtube? Bloccare sul calendario il tempo giornaliero che voglio passarci. Premiarmi se riesco (sweet?). Punirmi se non riesco.
 
