@@ -108,6 +108,7 @@
   "active": "24be11f8a16f6236",
   "lastOpenFiles": [
     "%yunGraphTransformerNetworks2020.md",
+    "zettelkasten/mastering-quantum-course.md",
     "zettelkasten/Untitled.md",
     "zettelkasten/%alonBottleneckGraphNeural2021.md",
     "zettelkasten/atlas.md",
@@ -115,7 +116,6 @@
     "zettelkasten/%equivariant-graphnets.md",
     "zettelkasten/%khasahmadiMemoryBasedGraphNetworks2020.md",
     "zettelkasten/%zhangGraphBertOnlyAttention2020.md",
-    "zettelkasten/deep-generative-models.md",
-    "zettelkasten/EGNN.md"
+    "zettelkasten/deep-generative-models.md"
   ]
 }
