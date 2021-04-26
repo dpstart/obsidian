@@ -31,4 +31,9 @@ Given a sample heterosubgraph, all linked node pairs are extracted. The goal of 
 * Heterogeneous message passing
 	* Multi-head message by projectinf source nodes with linear projections according to the node type, and then multiply by a matrix that incorporate the edge dependency. Finally, all message heads are concatenated.
 * Target-Specific aggregation
-	* use attention vectors as the weight to average the messages. Then, apply final 
+	* use attention vectors as the weight to average the messages. Then, apply final linear projection to go back to node-type specific featue distribution.
+
+
+### Relative temporal encoding
+
+### Sampling
