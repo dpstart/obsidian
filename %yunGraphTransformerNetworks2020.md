@@ -27,3 +27,9 @@ The graph is not assumed to be given. GTN searches for new graph structures usin
 An example of a metapath is the path AuthorPaperConference in a citation network.
 
 The approach uses [[GCN]] learning nodes representations.
+
+### Metapath generation
+
+1. Softly select two graph structures Q_1 and Q_2 from candidate adjacenty matrices.
+	1. 
+2. Learn a new graph structure by the composition of two relations. (multiplication of the adjancency matrices.)
