@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "research log 🔬/04-27-2021.md",
+            "file": "daily/2021-04-28.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "research log 🔬/04-27-2021.md",
+                "file": "daily/2021-04-28.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,6 +107,8 @@
   },
   "active": "01c837ad77f9c9fc",
   "lastOpenFiles": [
+    "daily/2021-04-28.md",
+    "research log 🔬/04-27-2021.md",
     "research log 🔬/Untitled.md",
     "daily/a new beginning..md",
     "daily/2021-04-27.md",
@@ -114,8 +116,6 @@
     "daily/2021-04-21.md",
     "daily/2021-04-16.md",
     "daily/2021-04-15.md",
-    "daily/2021-04-13.md",
-    "daily/2021-04-12.md",
-    "daily/2021-04-08.md"
+    "daily/2021-04-13.md"
   ]
 }
