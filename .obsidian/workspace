@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "research log 🔬/04-29-2021 1.md",
+            "file": "zettelkasten/%zhangGraphBertOnlyAttention2020.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "research log 🔬/04-29-2021 1.md",
+                "file": "zettelkasten/%zhangGraphBertOnlyAttention2020.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,15 +107,15 @@
   },
   "active": "01c837ad77f9c9fc",
   "lastOpenFiles": [
+    "zettelkasten/%zhangGraphBertOnlyAttention2020.md",
+    "zettelkasten/%yunGraphTransformerNetworks2020.md",
+    "zettelkasten/%khasahmadiMemoryBasedGraphNetworks2020.md",
+    "zettelkasten/%alonBottleneckGraphNeural2021.md",
+    "zettelkasten/%dwivediGeneralizationTransformerNetworks2021.md",
+    "research log 🔬/04-29-2021 1.md",
+    "daily/2021-05-03.md",
     "research log 🔬/04-28-2021 1.md",
     "research log 🔬/04-28-2021.md",
-    "daily/2021-04-29.md",
-    "daily/2021-04-28.md",
-    "research log 🔬/04-27-2021.md",
-    "research log 🔬/04-27-2021 1.md",
-    "research log 🔬/Untitled.md",
-    "daily/a new beginning..md",
-    "daily/2021-04-27.md",
-    "daily/2021-04-23.md"
+    "daily/2021-04-29.md"
   ]
 }
