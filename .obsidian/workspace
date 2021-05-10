@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "daily/2021-05-10.md",
+            "file": "zettelkasten/~graphs-iclr2021.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily/2021-05-10.md",
+                "file": "zettelkasten/~graphs-iclr2021.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,15 +107,15 @@
   },
   "active": "01c837ad77f9c9fc",
   "lastOpenFiles": [
+    "zettelkasten/Untitled.md",
+    "zettelkasten/~problems in graph ml.md",
+    "zettelkasten/~graph transformers.md",
     "daily/2021-05-10.md",
     "daily/2021-05-07.md",
     "daily/2021-05-04.md",
     "zettelkasten/%zhangGraphBertOnlyAttention2020.md",
     "zettelkasten/%yunGraphTransformerNetworks2020.md",
     "zettelkasten/%khasahmadiMemoryBasedGraphNetworks2020.md",
-    "zettelkasten/%alonBottleneckGraphNeural2021.md",
-    "zettelkasten/%dwivediGeneralizationTransformerNetworks2021.md",
-    "research log 🔬/04-29-2021 1.md",
-    "daily/2021-05-03.md"
+    "zettelkasten/%alonBottleneckGraphNeural2021.md"
   ]
 }
