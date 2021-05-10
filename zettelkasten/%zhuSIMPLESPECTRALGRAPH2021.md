@@ -16,3 +16,5 @@ However, this formulation can still incur in oversmoothing. Thus, the authors in
 [[Screenshot 2021-05-10 at 14.18.26.png]]
 
 The model is evaluated on the tasks of text and node classification, as well as node clustering and community detection. In general, the results are competitive with previous models, but this new formulation appears to be able to combat oversmoothing as the receptive field increases.
+
+It is also showed in the paper that  the proposedfilter, by design, will give the highest weight to the closest neighborhood of a node, and that the model can incorporate larger receptive fields without undermining contributions of smaller receptive fields, which might be the reason why this model doesn't suffer from oversmoothing.

@@ -1,0 +1,7 @@
+---
+topics: #gnn #graphnets 
+---
+
+ 
+
+ADAPTIVE UNIVERSAL GENERALIZED PAGERANK GRAPH NEURAL NETWORK
