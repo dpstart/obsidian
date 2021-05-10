@@ -17,4 +17,4 @@ The first step  is to produce node embeddings. This is done via a non-parametric
 The embeddings are then mapped to  the final Wasserstein embeddings, where the l2 distance between the resulting vectors approximates the 2-Wasserstein distance.
 These final representation can that be used in any kind of downstream classifier or kernel methods.
 
-With this approach 
+With this approach, the authors achieve SOTA or competitive results on obgb-molhiv for molecular property prediction and on several TUD benchmark datasets.
