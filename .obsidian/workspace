@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "%chienADAPTIVEUNIVERSALGENERALIZED2021.md",
+            "file": "zettelkasten/~graphs-iclr2021.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "%chienADAPTIVEUNIVERSALGENERALIZED2021.md",
+                "file": "zettelkasten/~graphs-iclr2021.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,8 +107,8 @@
   },
   "active": "01c837ad77f9c9fc",
   "lastOpenFiles": [
-    "%chienADAPTIVEUNIVERSALGENERALIZED2021.md",
     "zettelkasten/~graphs-iclr2021.md",
+    "%chienADAPTIVEUNIVERSALGENERALIZED2021.md",
     "%zhuSIMPLESPECTRALGRAPH2021.md",
     "%kolouriWASSERSTEINEMBEDDINGGRAPH2021.md",
     "zettelkasten/Untitled.md",
