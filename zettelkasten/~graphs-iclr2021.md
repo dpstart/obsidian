@@ -10,3 +10,5 @@
 * LEARNING PARAMETRISED GRAPH SHIFT OPERATORS -[[%dasoulasLEARNINGPARAMETRISEDGRAPH2021]]
 
 * [[%alonBottleneckGraphNeural2021]]
+
+* Graph Convolution with Low-rank Learnable Local Filters [[%chengGraphConvolutionLowrank2021]]

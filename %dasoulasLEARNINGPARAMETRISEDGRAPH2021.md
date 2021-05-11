@@ -17,3 +17,5 @@ Depending on the parameters values, one can retrieve commonly used graph shift o
 
 The authors then show how to include this new parametrized GSO in common GNN architectures.
 
+The exposition continues with a brief theoretical analysis, where for example it is shown that the parametrized GSO has real eigenvalues and eigenvectors, making it feasible to use in exhisting spectral network analysis frameworks where this property is required. Some other bounds useful for numerical stability are derived in the paper.
+
