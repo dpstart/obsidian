@@ -9,7 +9,18 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "%pfaffLEARNINGMESHBASEDSIMULATION2021.md",
+            "file": "writing/graphs-iclr2021.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "4614521a797b869e",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "zettelkasten/~graphs-iclr2021.md",
             "mode": "source"
           }
         }
@@ -76,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "%pfaffLEARNINGMESHBASEDSIMULATION2021.md",
+                "file": "writing/graphs-iclr2021.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,15 +118,15 @@
   },
   "active": "01c837ad77f9c9fc",
   "lastOpenFiles": [
-    "%pfaffLEARNINGMESHBASEDSIMULATION2021.md",
+    "writing/graphs-iclr2021.md",
     "zettelkasten/~graphs-iclr2021.md",
+    "writing/fiction.md",
+    "writing/graphgen.md",
+    "zettelkasten/%chienADAPTIVEUNIVERSALGENERALIZED2021.md",
+    "zettelkasten/%kimHOWFINDYOUR2021.md",
+    "writing/Teaching Myself Quantum Mechanics, Part 2.md",
+    "writing/Untitled.md",
     "%azizianEXPRESSIVEPOWERINVARIANT2021.md",
-    "daily/2021-05-11.md",
-    "daily/2021-05-10.md",
-    "%kimHOWFINDYOUR2021.md",
-    "%chienADAPTIVEUNIVERSALGENERALIZED2021.md",
-    "%zhuSIMPLESPECTRALGRAPH2021.md",
-    "%kolouriWASSERSTEINEMBEDDINGGRAPH2021.md",
-    "zettelkasten/Untitled.md"
+    "%pfaffLEARNINGMESHBASEDSIMULATION2021.md"
   ]
 }
