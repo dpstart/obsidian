@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "%azizianEXPRESSIVEPOWERINVARIANT2021.md",
+            "file": "%pfaffLEARNINGMESHBASEDSIMULATION2021.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "%azizianEXPRESSIVEPOWERINVARIANT2021.md",
+                "file": "%pfaffLEARNINGMESHBASEDSIMULATION2021.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,15 +107,15 @@
   },
   "active": "01c837ad77f9c9fc",
   "lastOpenFiles": [
-    "%azizianEXPRESSIVEPOWERINVARIANT2021.md",
+    "%pfaffLEARNINGMESHBASEDSIMULATION2021.md",
     "zettelkasten/~graphs-iclr2021.md",
+    "%azizianEXPRESSIVEPOWERINVARIANT2021.md",
     "daily/2021-05-11.md",
     "daily/2021-05-10.md",
     "%kimHOWFINDYOUR2021.md",
     "%chienADAPTIVEUNIVERSALGENERALIZED2021.md",
     "%zhuSIMPLESPECTRALGRAPH2021.md",
     "%kolouriWASSERSTEINEMBEDDINGGRAPH2021.md",
-    "zettelkasten/Untitled.md",
-    "zettelkasten/~problems in graph ml.md"
+    "zettelkasten/Untitled.md"
   ]
 }
