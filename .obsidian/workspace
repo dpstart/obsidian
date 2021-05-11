@@ -20,7 +20,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "zettelkasten/~graphs-iclr2021.md",
+            "file": "zettelkasten/%kolouriWASSERSTEINEMBEDDINGGRAPH2021.md",
             "mode": "source"
           }
         }
@@ -71,7 +71,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 461
+    "width": 461,
+    "collapsed": true
   },
   "right": {
     "id": "aa0b2299b7cc86ac",
@@ -119,6 +120,7 @@
   "active": "01c837ad77f9c9fc",
   "lastOpenFiles": [
     "writing/graphs-iclr2021.md",
+    "zettelkasten/%kolouriWASSERSTEINEMBEDDINGGRAPH2021.md",
     "zettelkasten/~graphs-iclr2021.md",
     "writing/fiction.md",
     "writing/graphgen.md",
@@ -126,7 +128,6 @@
     "zettelkasten/%kimHOWFINDYOUR2021.md",
     "writing/Teaching Myself Quantum Mechanics, Part 2.md",
     "writing/Untitled.md",
-    "%azizianEXPRESSIVEPOWERINVARIANT2021.md",
-    "%pfaffLEARNINGMESHBASEDSIMULATION2021.md"
+    "%azizianEXPRESSIVEPOWERINVARIANT2021.md"
   ]
 }
