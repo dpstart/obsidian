@@ -20,4 +20,4 @@ Given this framework, the authors pose some research question, which I'll summar
 Here, the best performing model in low-homphily settings employs scaled dot-product attention with self-supervision, showing that self-supervision can be useful.
 However, when homphily and average degree are high enough, there is no difference in performance between all the models, including a vanilla GCN.
 
-All of the experiments done so fare were done us
+All of the experiments done so fare were done using synthetic dataset, as they allow for controlling several graph properties. However, the authors show that the design choice generalize to many real-world datasets.
