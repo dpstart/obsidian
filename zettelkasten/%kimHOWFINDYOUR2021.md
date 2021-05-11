@@ -14,4 +14,10 @@ The final loss is the combination of the cross-entropy on the node labels (for t
 
 Given this framework, the authors pose some research question, which I'll summarize here.
 
-1. ** Does graph attention learn label agreement?** The authors here seem to think that, due to oversmoothing in GAT, if an edge exists between nodes with different labels, that it will be hard to distinguish them. Thus, they postulate that 
+1. **Does graph attention learn label agreement?** The authors here seem to think that, due to oversmoothing in GAT, if an edge exists between nodes with different labels, that it will be hard to distinguish them. Thus, they postulate that ideal attention should give all the weights to label-agreed neighbors. In their experiments, they show that GAT attention learns label-agreement better that dot-product.
+2. **Is graph attention predictive for edge presence?** On the link predictiont ask, dot-product attention consistently outperforms GAT attention. 
+3. **Which graph attention should we use for given graphs?** The hypothesis here is that different attention mechanisms have will have different abilities to model graphs under various homophily and average degree.
+Here, the best performing model in low-homphily settings employs scaled dot-product attention with self-supervision, showing that self-supervision can be useful.
+However, when homphily and average degree are high enough, there is no difference in performance between all the models, including a vanilla GCN.
+
+All of the experiments done so fare were done us
