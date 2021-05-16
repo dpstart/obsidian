@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "01c837ad77f9c9fc",
+        "id": "7c3dcba530169611",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "writing/graphs-iclr2021.md",
+            "file": "writing/graphgen.md",
             "mode": "source"
           }
         }
@@ -60,7 +60,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 461
+    "width": 224
   },
   "right": {
     "id": "aa0b2299b7cc86ac",
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "writing/graphs-iclr2021.md",
+                "file": "writing/graphgen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,17 +105,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "01c837ad77f9c9fc",
+  "active": "7c3dcba530169611",
   "lastOpenFiles": [
+    "writing/graphgen.md",
     "writing/graphs-iclr2021.md",
+    "writing/fiction.md",
+    "writing/A tale of wasted potential.md",
+    "zettelkasten/%equivariant-graphnets.md",
+    "zettelkasten/%chengGraphConvolutionLowrank2021.md",
     "zettelkasten/~graphs-iclr2021.md",
-    "zettelkasten/~graph transformers.md",
-    "zettelkasten/%pfaffLEARNINGMESHBASEDSIMULATION2021.md",
-    "zettelkasten/%azizianEXPRESSIVEPOWERINVARIANT2021.md",
-    "media/Screenshot 2021-05-10 at 14.18.26.png",
-    "daily/2021-05-16.md",
-    "daily/2021-05-15.md",
-    "%chengGraphConvolutionLowrank2021.md",
-    "%dasoulasLEARNINGPARAMETRISEDGRAPH2021.md"
+    "zettelkasten/%alonBottleneckGraphNeural2021.md",
+    "zettelkasten/%dasoulasLEARNINGPARAMETRISEDGRAPH2021.md",
+    "zettelkasten/~graph transformers.md"
   ]
 }
