@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "daily/2021-05-15.md",
+            "file": "writing/graphs-iclr2021.md",
             "mode": "source"
           }
         }
@@ -60,8 +60,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 461,
-    "collapsed": true
+    "width": 461
   },
   "right": {
     "id": "aa0b2299b7cc86ac",
@@ -77,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily/2021-05-15.md",
+                "file": "writing/graphs-iclr2021.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,15 +107,15 @@
   },
   "active": "01c837ad77f9c9fc",
   "lastOpenFiles": [
+    "writing/graphs-iclr2021.md",
+    "zettelkasten/~graphs-iclr2021.md",
+    "zettelkasten/~graph transformers.md",
+    "zettelkasten/%pfaffLEARNINGMESHBASEDSIMULATION2021.md",
+    "zettelkasten/%azizianEXPRESSIVEPOWERINVARIANT2021.md",
+    "media/Screenshot 2021-05-10 at 14.18.26.png",
+    "daily/2021-05-16.md",
     "daily/2021-05-15.md",
     "%chengGraphConvolutionLowrank2021.md",
-    "zettelkasten/~graphs-iclr2021.md",
-    "%dasoulasLEARNINGPARAMETRISEDGRAPH2021.md",
-    "zettelkasten/%alonBottleneckGraphNeural2021.md",
-    "zettelkasten/%pfaffLEARNINGMESHBASEDSIMULATION2021.md",
-    "zettelkasten/graphrnn.md",
-    "writing/graphs-iclr2021.md",
-    "zettelkasten/%kimHOWFINDYOUR2021.md",
-    "zettelkasten/%chienADAPTIVEUNIVERSALGENERALIZED2021.md"
+    "%dasoulasLEARNINGPARAMETRISEDGRAPH2021.md"
   ]
 }
