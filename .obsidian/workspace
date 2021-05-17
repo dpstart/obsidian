@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "zettelkasten/%azizianEXPRESSIVEPOWERINVARIANT2021.md",
+            "file": "writing/graphs-iclr2021.md",
             "mode": "source"
           }
         }
@@ -56,13 +56,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 436,
-    "collapsed": true
+    "width": 436
   },
   "right": {
     "id": "aa0b2299b7cc86ac",
@@ -78,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zettelkasten/%azizianEXPRESSIVEPOWERINVARIANT2021.md",
+                "file": "writing/graphs-iclr2021.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,11 +107,11 @@
   },
   "active": "7c3dcba530169611",
   "lastOpenFiles": [
+    "writing/graphs-iclr2021.md",
     "zettelkasten/%azizianEXPRESSIVEPOWERINVARIANT2021.md",
     "zettelkasten/~graphs-iclr2021.md",
     "daily/2021-05-17.md",
     "writing/graphgen.md",
-    "writing/graphs-iclr2021.md",
     "writing/fiction.md",
     "writing/A tale of wasted potential.md",
     "zettelkasten/%equivariant-graphnets.md",
