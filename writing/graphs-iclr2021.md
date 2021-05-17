@@ -101,9 +101,9 @@ The latent node features for the nodes are finally translated by a decoder MLP i
 
 The resulting simulations, which can be seen [here](https://sites.google.com/view/meshgraphnets), tend o run 1-2 orders of magnitude faster that the simulations they were trained on.
 
-#  LEARNING PARAMETRISED GRAPH SHIFT OPERATORS
+#  Learning Parametrized Graph Shift Operators
 
-This paper provides and analysis for graph shift operators (GSO)* in graph learning, as well as a strategy for learning parametrized shift operators on graph. 
+This paper provides and analysis for graph shift operators (GSO)* in graph learning, as well as a strategy for learning parametrized shift operators on graphs. 
 
 The parametrization is achieved in the following way:
 ![[Screenshot 2021-05-11 at 16.07.26.png]]
@@ -118,24 +118,23 @@ The authors then show how to include this new parametrized GSO in common GNN arc
 The exposition continues with a brief theoretical analysis, where for example it is shown that the parametrized GSO has real eigenvalues and eigenvectors, making it feasible to use in exhisting spectral network analysis frameworks where this property is required. Some other bounds useful for numerical stability are derived in the paper.
 
 
-# Bottleneck stuff
+# On the Bottleneck of Graph Neural Networks and its Practical Implications
 
-One of the main issues with [[graphnet]] is the *bottleneck* issue: GNNs struggle to propagate information between distant nodes in the graph.  This paper introduces this issue as the *over-squashing* problem, since the network is not able to compress exponentially-growing information into fixed-sized vectors.
+One of the main issues with [[graphnet]] is the *bottleneck* issue: GNNs struggle to propagate information between distant nodes in the graph.  This paper relates this failure mode to the *over-squashing* problem, which happens when the network is not able to compress exponentially-growing information into fixed-sized vectors.
 
 As a result, traditional GNNs perform poorly when the prediction task depends on long-range interaction. Moreover, it is shown that GNNs that absorm incoming edges equally, such as [[GCN]] and [[GIN]], are more subsceptible to this issue than [[GAT]] of [[GGNN]].
 
 In most literature, GNNs were observed not to benefit from more than a few layers. The common explaantion for this is [[oversmoothing]]: node representations become indistinguishable when the number of layers increases. For long-range task, however, the paper hypothesizes that the explanation for the limited perfomance lies in [[oversquashing]].
 
-In fact, the bottleneck issue here is very similar to the issue for seq2seq models, which typically suffer from a bottleneck issue in the decoder when attention is not used, since the receptive field of a ndoe grows linearly with the number of steps. 
+In fact, the bottleneck issue here is very similar to the issue for seq2seq models, which typically suffer from a bottleneck problem in the decoder when attention is not used, since the receptive field of a ndoe grows linearly with the number of steps. 
 
 For graph, the issue is strictly worse, since the number of nodes that fall in the receptive field of a target node grows exponentially with the number of message-passing steps.
 
-The *problem radius* here is defined as a useful measure for defining the problem, and it correponds to the prioblem's required range of interaction. Clearly, this is typically unknown in advance, and is usually approximated empirially by tuning the number of layers.
+The *problem radius* here is defined as a useful measure for defining the problem, and it correponds to the problem's required range of interaction. Clearly, this is typically unknown in advance, and is usually approximated empirially by tuning the number of layers.
 
 When a prediciton problem as a problem radius $r$, the GNN muyst have as many layers $K$ as $r$. Howeverly, since the number of nodes in the receptive field grows exponentially with $K$, the network need to squash an exponentially-growing amount of intomation into a fixed-size vector, and so crucial messages might fail to reach thei distant destinations, and the model would learn only short-ranged signals fromt he training data and fail to generalize at test time.
 
-The authors show the NEIGHBORMATCH task a toy task that exhibits the need for long-range interactions between nodes.
-
+The authors show the **NEIGHBORMATCH** task a toy task that exhibits the need for long-range interactions between nodes.
 
 Examples of tasks that require long-range interaction appear in the prediciton fo chemical properties of molecules, which might depend on the combination of atoms that reside on opposite sides of the molecule.
 
@@ -144,8 +143,11 @@ On the toy dataset, it is shown that, even if enogh layers are built into the ne
 
 A question posed is: if all GNNs have reached low training accuracy, how do these GNN models usually fit the training data in public datasets of long-range problems? The hypothesis is that they overfiit short-range signals and artifacts from the training set, rather that learning the long-range information that was sqashed in the bottleneck. Thus, they generalize poorly at test time.
 
-
 Simple solution: Adding a fully-adjacent (FA) layer in the last layer. the FA later has every pair of nodes connected by an edge. This allows the topology-aware representations (that arrived at the last layer) to interact directly and consider nodes beyond thei original neighbors. This significanly reduces the error rate.
 
-
 Moreover, the authors try to assess whether the issue might have to do with under-reaching rather that oversquashing. However, that is not the case, as they show that the networks already had enough layer to reach the radius needes for they task.
+
+
+# Expressive Power of Invariant and Equivariant Graph Neural Networks
+
+This theoretical paper compares the expressive power of three types of invariant and equivariant GNNs against the Weisfeiler-Lehman (WL) tests, proves function approximation results for these GNNs, and demonstrates that 2-FGNN\_E works well for the quadratic assignment problem.  One of the main results is showing that k-FGNN are as powerful as the (k-1)-Weisfeiler-Lehman test.
