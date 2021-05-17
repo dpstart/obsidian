@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "writing/graphgen.md",
+            "file": "daily/2021-05-17.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "writing/graphgen.md",
+                "file": "daily/2021-05-17.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,6 +107,7 @@
   },
   "active": "7c3dcba530169611",
   "lastOpenFiles": [
+    "daily/2021-05-17.md",
     "writing/graphgen.md",
     "writing/graphs-iclr2021.md",
     "writing/fiction.md",
@@ -115,7 +116,6 @@
     "zettelkasten/%chengGraphConvolutionLowrank2021.md",
     "zettelkasten/~graphs-iclr2021.md",
     "zettelkasten/%alonBottleneckGraphNeural2021.md",
-    "zettelkasten/%dasoulasLEARNINGPARAMETRISEDGRAPH2021.md",
-    "zettelkasten/~graph transformers.md"
+    "zettelkasten/%dasoulasLEARNINGPARAMETRISEDGRAPH2021.md"
   ]
 }
