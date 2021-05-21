@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "research log 🔬/05-18-2021.md",
+            "file": "daily/2021-05-21.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "research log 🔬/05-18-2021.md",
+                "file": "daily/2021-05-21.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,6 +107,8 @@
   },
   "active": "7c3dcba530169611",
   "lastOpenFiles": [
+    "daily/2021-05-21.md",
+    "research log 🔬/05-18-2021.md",
     "research log 🔬/Untitled.md",
     "research log 🔬/04-29-2021.md",
     "research log 🔬/04-27-2021.md",
@@ -114,8 +116,6 @@
     "writing/graphs-iclr2021.md",
     "zettelkasten/%azizianEXPRESSIVEPOWERINVARIANT2021.md",
     "zettelkasten/~graphs-iclr2021.md",
-    "zettelkasten/~problems in graph ml.md",
-    "zettelkasten/%chengGraphConvolutionLowrank2021.md",
-    "daily/2021-05-17.md"
+    "zettelkasten/~problems in graph ml.md"
   ]
 }
