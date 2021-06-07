@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "daily/2021-06-07.md",
+            "file": "research log 🔬/06-17-2021.md",
             "mode": "source"
           }
         }
@@ -56,13 +56,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 436,
-    "collapsed": true
+    "width": 436
   },
   "right": {
     "id": "aa0b2299b7cc86ac",
@@ -78,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily/2021-06-07.md",
+                "file": "research log 🔬/06-17-2021.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,6 +107,7 @@
   },
   "active": "7c3dcba530169611",
   "lastOpenFiles": [
+    "research log 🔬/05-18-2021 1.md",
     "daily/2021-06-07.md",
     "daily/2021-06-01.md",
     "zettelkasten/%equivariant-graphnets.md",
@@ -117,7 +116,6 @@
     "writing/Teaching Myself Quantum Mechanics, Part 2.md",
     "writing/graphgen.md",
     "writing/A tale of wasted potential.md",
-    "daily/2021-05-26.md",
-    "daily/2021-05-21.md"
+    "daily/2021-05-26.md"
   ]
 }
