@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "research log 🔬/06-17-2021.md",
+            "file": "writing/graphs-iclr2021.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "research log 🔬/06-17-2021.md",
+                "file": "writing/graphs-iclr2021.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,15 +107,15 @@
   },
   "active": "7c3dcba530169611",
   "lastOpenFiles": [
+    "writing/graphs-iclr2021.md",
+    "zettelkasten/~graphs-iclr2021.md",
+    "zettelkasten/%chengGraphConvolutionLowrank2021.md",
     "research log 🔬/05-18-2021 1.md",
     "daily/2021-06-07.md",
     "daily/2021-06-01.md",
     "zettelkasten/%equivariant-graphnets.md",
     "daily/2021-05-27.md",
-    "writing/graphs-iclr2021.md",
     "writing/Teaching Myself Quantum Mechanics, Part 2.md",
-    "writing/graphgen.md",
-    "writing/A tale of wasted potential.md",
-    "daily/2021-05-26.md"
+    "writing/graphgen.md"
   ]
 }
