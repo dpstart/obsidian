@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "writing/graphs-iclr2021.md",
+            "file": "daily/2021-06-10.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "writing/graphs-iclr2021.md",
+                "file": "daily/2021-06-10.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,6 +107,7 @@
   },
   "active": "02ac9850f7f5d095",
   "lastOpenFiles": [
+    "daily/2021-06-10.md",
     "writing/graphs-iclr2021.md",
     "daily/2021-06-07.md",
     "media/Screenshot 2021-05-10 at 14.16.45.png",
@@ -115,7 +116,6 @@
     "zettelkasten/%chengGraphConvolutionLowrank2021.md",
     "research log 🔬/05-18-2021 1.md",
     "daily/2021-06-01.md",
-    "zettelkasten/%equivariant-graphnets.md",
-    "daily/2021-05-27.md"
+    "zettelkasten/%equivariant-graphnets.md"
   ]
 }
