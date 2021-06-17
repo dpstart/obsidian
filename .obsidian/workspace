@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "daily/2021-06-16.md",
+            "file": "daily/2021-06-17.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily/2021-06-16.md",
+                "file": "daily/2021-06-17.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,6 +107,7 @@
   },
   "active": "02ac9850f7f5d095",
   "lastOpenFiles": [
+    "daily/2021-06-17.md",
     "daily/2021-06-16.md",
     "daily/2021-06-10.md",
     "writing/graphs-iclr2021.md",
@@ -115,7 +116,6 @@
     "media/Screenshot 2021-05-10 at 14.16.45 1.png",
     "zettelkasten/~graphs-iclr2021.md",
     "zettelkasten/%chengGraphConvolutionLowrank2021.md",
-    "research log 🔬/05-18-2021 1.md",
-    "daily/2021-06-01.md"
+    "research log 🔬/05-18-2021 1.md"
   ]
 }
