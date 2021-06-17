@@ -3,3 +3,4 @@
 * [[%yunGraphTransformerNetworks2020]]
 * [[%nguyenUniversalGraphTransformer2020]]
 * [[%huHeterogeneousGraphTransformer2020]]
+* [[%mialonGraphiTEncodingGraph2021]]
