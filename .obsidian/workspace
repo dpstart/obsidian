@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "%mialonGraphiTEncodingGraph2021.md",
+            "file": "daily/2021-06-20.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "%mialonGraphiTEncodingGraph2021.md",
+                "file": "daily/2021-06-20.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,6 +107,7 @@
   },
   "active": "02ac9850f7f5d095",
   "lastOpenFiles": [
+    "daily/2021-06-20.md",
     "%mialonGraphiTEncodingGraph2021.md",
     "zettelkasten/~graph transformers.md",
     "daily/2021-06-17.md",
@@ -115,7 +116,6 @@
     "writing/graphs-iclr2021.md",
     "daily/2021-06-07.md",
     "media/Screenshot 2021-05-10 at 14.16.45.png",
-    "media/Screenshot 2021-05-10 at 14.16.45 1.png",
-    "zettelkasten/~graphs-iclr2021.md"
+    "media/Screenshot 2021-05-10 at 14.16.45 1.png"
   ]
 }
