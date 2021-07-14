@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "02ac9850f7f5d095",
+        "id": "55816c4d5460a19c",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "research log 🔬/04-28-2021.md",
+            "file": "zettelkasten/%alonBottleneckGraphNeural2021.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "research log 🔬/04-28-2021.md",
+                "file": "zettelkasten/%alonBottleneckGraphNeural2021.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,17 +105,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "02ac9850f7f5d095",
+  "active": "55816c4d5460a19c",
   "lastOpenFiles": [
-    "research log 🔬/04-28-2021.md",
-    "research log 🔬/04-27-2021.md",
-    "research log 🔬/04-29-2021.md",
-    "research log 🔬/05-18-2021.md",
-    "research log 🔬/06-17-2021.md",
-    "daily/2021-07-14.md",
-    "daily/2021-07-13.md",
-    "daily/2021-07-11.md",
+    "zettelkasten/%alonBottleneckGraphNeural2021.md",
+    "zettelkasten/%khasahmadiMemoryBasedGraphNetworks2020.md",
+    "zettelkasten/graphnet.md",
+    "%mialonGraphiTEncodingGraph2021.md",
     "%krauseCaloFlowFastAccurate2021.md",
-    "zettelkasten/~CaloSim.md"
+    "daily/2021-05-26.md",
+    "daily/2021-06-20.md",
+    "daily/2021-07-14.md",
+    "personal/goals 🏔.md",
+    "research log 🔬/06-17-2021 1.md"
   ]
 }
