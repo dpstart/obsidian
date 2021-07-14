@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "daily/2021-07-13.md",
+            "file": "daily/2021-07-14.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily/2021-07-13.md",
+                "file": "daily/2021-07-14.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,6 +107,7 @@
   },
   "active": "02ac9850f7f5d095",
   "lastOpenFiles": [
+    "daily/2021-07-14.md",
     "daily/2021-07-13.md",
     "daily/2021-07-11.md",
     "%krauseCaloFlowFastAccurate2021.md",
@@ -115,7 +116,6 @@
     "zettelkasten/Untitled.md",
     "zettelkasten/~problems in graph ml.md",
     "zettelkasten/~graphs-iclr2021.md",
-    "daily/2021-06-29.md",
-    "daily/2021-06-23.md"
+    "daily/2021-06-29.md"
   ]
 }
