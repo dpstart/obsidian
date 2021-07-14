@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "daily/2021-07-14.md",
+            "file": "research log 🔬/04-28-2021.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily/2021-07-14.md",
+                "file": "research log 🔬/04-28-2021.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,15 +107,15 @@
   },
   "active": "02ac9850f7f5d095",
   "lastOpenFiles": [
+    "research log 🔬/04-28-2021.md",
+    "research log 🔬/04-27-2021.md",
+    "research log 🔬/04-29-2021.md",
+    "research log 🔬/05-18-2021.md",
+    "research log 🔬/06-17-2021.md",
     "daily/2021-07-14.md",
     "daily/2021-07-13.md",
     "daily/2021-07-11.md",
     "%krauseCaloFlowFastAccurate2021.md",
-    "zettelkasten/~CaloSim.md",
-    "zettelkasten/~graph transformers.md",
-    "zettelkasten/Untitled.md",
-    "zettelkasten/~problems in graph ml.md",
-    "zettelkasten/~graphs-iclr2021.md",
-    "daily/2021-06-29.md"
+    "zettelkasten/~CaloSim.md"
   ]
 }
