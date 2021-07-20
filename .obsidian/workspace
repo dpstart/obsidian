@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "zettelkasten/%alonBottleneckGraphNeural2021.md",
+            "file": "daily/2021-07-20.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zettelkasten/%alonBottleneckGraphNeural2021.md",
+                "file": "daily/2021-07-20.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,6 +107,7 @@
   },
   "active": "55816c4d5460a19c",
   "lastOpenFiles": [
+    "daily/2021-07-20.md",
     "zettelkasten/%alonBottleneckGraphNeural2021.md",
     "zettelkasten/%khasahmadiMemoryBasedGraphNetworks2020.md",
     "zettelkasten/graphnet.md",
@@ -115,7 +116,6 @@
     "daily/2021-05-26.md",
     "daily/2021-06-20.md",
     "daily/2021-07-14.md",
-    "personal/goals 🏔.md",
-    "research log 🔬/06-17-2021 1.md"
+    "personal/goals 🏔.md"
   ]
 }
